@@ -1,0 +1,56 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>POW: The Sticky Gum Problem</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>76b441df-0b3d-4f24-b621-2fd30cfd5bc0</md:uuid>
+</metadata>
+  <content>
+    <section id="id-75243837244">
+      <title>POW: A Sticky Gum Problem</title>
+      <section id="id-108631064977">
+        <title>Intent</title>
+        <para id="id9776931">As with all POWs, students explore a problem outside of class and communicate their thinking in writing. This POW taps students’ developing skill at finding and using patterns from the previous unit, and asks students to count possible outcomes, a strategy used throughout the current unit to find probabilities. This POW also helps students understand what is meant by a generalization. It also provides a constructive opportunity to understand what distinguishes a POW from an ordinary homework assignment: the focus on generalization and exploration. </para>
+      </section>
+      <section id="id-646359812734">
+        <title>Mathematics</title>
+        <para id="id9065437">At the heart of this activity is the counting concept known as the “pigeonhole principle.” Informally, the pigeonhole principle states that if you have more pigeons than pigeonholes, at least one of the holes will contain more than one pigeon. In this activity, the “pigeonholes” are different colors of gum balls. If two children want to buy gum balls of the same color from a machine containing gum balls of three colors, <emphasis>in the worst case</emphasis>, the first three gum balls would be three different colors (they will fill the three pigeonholes). The next gum ball would have to match one of the first three. So, the children would have to buy at most four gum balls to be sure to get two of the same color. </para>
+      </section>
+      <section id="id-834304335243">
+        <title>Progression</title>
+        <para id="id6520767">This POW is introduced at the start of the unit, with presentations about a week later. </para>
+      </section>
+      <section id="id-652193420294">
+        <title>Approximate Time </title>
+        <para id="id9449200">10 minutes to pose activity and short periods to check on progress</para>
+        <para id="id10125670">1 to 3 hours for activity (at home)</para>
+        <para id="id9963644">20 minutes for presentations </para>
+      </section>
+      <section id="id-739154344703">
+        <title>Classroom Organization </title>
+        <para id="id8818718">Groups of 3 or 4 for brief segments, concluding with whole-class presentations</para>
+      </section>
+      <section id="id-399816740101">
+        <title>Doing the Activity</title>
+        <para id="id5172491">Students can begin working on this POW on the first day of the unit. The activity begins with several special cases and then asks students to search for a general method, given any number of children and any number of colors, for finding the number of gum balls one must buy to be sure the children all get the same color gum ball. A class discussion of the first special case—in which the answer is given and students are asked to explain why it is correct—might help students get started.</para>
+      </section>
+      <section id="id-510308315242">
+        <title>Discussing and Debriefing the Activity </title>
+        <para id="id6729528">After a week or so of having students work outside of class, with perhaps a portion of one day devoted to a progress check, have some students present their results. </para>
+        <para id="id9463582">Focus the discussion on the process of trying different examples, organizing the information, looking for patterns, expressing patterns symbolically, and explaining patterns, rather than on specific formulas. At this early stage, you might expect only some students to arrive at a general formula.</para>
+      </section>
+      <section id="id-153586749869">
+        <title>Key Questions</title>
+        <para id="id10637165">
+          <term>In each specific case, what is the smallest number of gum balls the children could purchase and all get the same color? Why?</term>
+        </para>
+        <para id="id9990890">
+          <term>In each specific case, how many gum ball purchases would guarantee that the children would all get the same color? Why?</term>
+        </para>
+        <para id="id10603662">
+          <term>For any specific number of children, how does the number of colors available affect the number of gum balls one would need to buy? What patterns can help you to answer this question?</term>
+        </para>
+        <para id="id10142842">
+          <term>For any number of available colors, how does the number of children affect the number of gum balls one would need to buy? What patterns can help you answer this question?</term>
+        </para>
+      </section>
+    </section>
+  </content>
+</document>

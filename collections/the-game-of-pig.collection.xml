@@ -1,0 +1,35 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10488</md:content-id>
+    <md:title>The Game of Pig</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>425ae833-7692-4761-b4cb-74bec7aa27a9</md:uuid>
+<md:slug>the-game-of-pig</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Chance and Strategy</md:title>
+      <col:content>
+        <col:module document="m15506"/>
+        <col:module document="m15508"/>
+        <col:module document="m15507"/>
+        <col:subcollection>
+          <md:title>0 to 1 math testing doc</md:title>
+          <col:content>
+            <col:module document="m15552"/>
+          </col:content>
+        </col:subcollection>
+        <col:module document="m15553"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Pictures of Probability</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>In the Long Run</md:title>
+      <col:content/>
+    </col:subcollection>
+  </col:content>
+</col:collection>

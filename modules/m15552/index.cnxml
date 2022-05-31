@@ -1,0 +1,59 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>0 to 1 math testing</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>140425da-87a7-48f7-a627-4aabb06d294a</md:uuid>
+</metadata>
+  <content>
+    <section id="id-471949415312">
+      <title>0 to 1, or Never to Always</title>
+      <section id="id-922812334397">
+        <title>Intent</title>
+        <para id="id6920051">In this activity, students work with probabilities expressed as fractions, percentages, and decimals. </para>
+      </section>
+      <section id="id-459645563357">
+        <title>Mathematics</title>
+        <para id="id4755713">Students continue to focus on the distinction between probability based on a theoretical model and probability based on observed results and on measuring probability using a real-number scale from 0 to 1.</para>
+      </section>
+      <section id="id-697880064958">
+        <title>Progression</title>
+        <para id="id7184986">Earlier in the unit, students estimated the probability of given events. In this activity, they invent situations that match a given probability.</para>
+      </section>
+      <section id="id-373380519888">
+        <title>Approximate Time </title>
+        <para id="id6921214">5 minutes for introduction</para>
+        <para id="id4833540">25 minutes for activity (at home or in class)</para>
+        <para id="id6857679">10 minutes for class discussion </para>
+      </section>
+      <section id="id-6258901754">
+        <title>Classroom Organization </title>
+        <para id="id6818385">Individuals or pairs, followed by whole-class discussions</para>
+      </section>
+      <section id="id-600505254126">
+        <title>Doing the Activity</title>
+        <para id="id6261679">Clarify that students are to invent two situations for each question, one based on theoretical probability and the other on observed results. Let's test a link to Keypress.com by clicking <link url="http://www.keypress.com/x5436.xml">here</link>.</para>
+        <list list-type="enumerated" id="id7200118">
+          <item>Here is an equation with a non-breaking space: <emphasis>x</emphasis> + <emphasis>y</emphasis> = <emphasis>z</emphasis></item>
+          <item>Here is a test of subscripts and superscripts: <emphasis>x</emphasis>2 + <emphasis>y</emphasis>2 = <emphasis>z</emphasis>1 + <emphasis>z</emphasis>2</item>
+        </list>
+      </section>
+      <section id="id-510478948358">
+        <title>Discussing and Debriefing the Activity</title>
+        <para id="id8078096">If students have worked individually, ensure that there is time for them to compare their invented situations. Question 5 is included to give students an opportunity to consider an impossible situation.</para>
+      </section>
+      <section id="id-0936174771208">
+        <title>Key Questions </title>
+        <para id="id8037040">
+          <term>Does it matter whether probabilities are written as fractions, decimals, or percents?</term>
+        </para>
+        <para id="id7636848">
+          <term>Why is the smallest probability 0?</term>
+        </para>
+        <para id="id8037100">
+          <term>Why is the largest probability 1?</term>
+        </para>
+        <para id="id7994932">
+          <term>What does a probability of 2.3 imply?</term>
+        </para>
+      </section>
+    </section>
+  </content>
+</document>

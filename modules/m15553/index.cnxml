@@ -1,0 +1,203 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Waiting for a Double</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>fc5662e9-41d4-453d-9057-12e78bd39a8c</md:uuid>
+</metadata>
+  <content>
+    <section id="id-263475395134">
+      <title>Waiting for a Double</title>
+      <section id="id-924399942127">
+        <title>Intent</title>
+        <para id="id3176628">In this activity, students conduct their first simulation, collecting, displaying, and summarizing data to test a conjecture about probability. The activity draws upon their intuitive sense of probability and engages them in thinking more precisely about the topic. This is one of several activities in which intuitive notions about probability can be at odds with experimental or theoretical analyses.</para>
+      </section>
+      <section id="id-550933589826">
+        <title>Mathematics</title>
+        <para id="id3437494">When rolling two dice, what is the average number of rolls needed to roll a double? In this activity, students approach this question through collecting and analyzing data. By rolling two dice repeatedly, they collect many examples of how many rolls it can take to get a double. </para>
+      </section>
+      <section id="id-550999259273">
+        <title>Progression</title>
+        <para id="id9169742">Up to now, students have been exploring the unit problem informally. Now they begin a series of explorations designed to help them develop the tools they will need to answer the unit problem. The in-class portion of this activity has several parts: reviewing the homework, gathering class data, and graphing the class data.</para>
+      </section>
+      <section id="id-354424887519">
+        <title>Approximate Time </title>
+        <para id="id10380759">5 minutes for introduction</para>
+        <para id="id4172428">20 minutes for activity (at home or in class)</para>
+        <para id="id10265446">25 minutes to collect and analyze class data</para>
+      </section>
+      <section id="id-00864052880753">
+        <title>Classroom Organization</title>
+        <para id="id3526920">Individuals, then small groups to review data, test Equation Editor: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msup><m:mi>z</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">=</m:mo><m:msqrt><m:mrow><m:mn>5</m:mn><m:mtext>.</m:mtext><m:mn>5</m:mn></m:mrow></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{z rSup { size 8{2} } +3 rSup { size 8{3} } = sqrt {5 "." 5} } {}</m:annotation></m:semantics></m:math> + 4. Then the whole class gathers to analyze data. This is a test of Equation Editor: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msup><m:mi>z</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">=</m:mo><m:msqrt><m:mrow><m:mn>5</m:mn><m:mtext>.</m:mtext><m:mn>5</m:mn></m:mrow></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{z rSup { size 8{2} } +3 rSup { size 8{3} } = sqrt {5 "." 5} } {}</m:annotation></m:semantics></m:math> + 4.</para>
+        <para id="id9806060">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>x</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msup>
+                          <m:mi>y</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>z</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mi>z</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{2} } +y rSup { size 8{2} } =z rSub { size 8{1} } +z rSub { size 8{2} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id8160801">
+          <quote display="block" id="idp1460176">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mrow>
+                          <m:mstyle fontsize="12pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mfrac>
+                                  <m:mn>1</m:mn>
+                                  <m:mn>2</m:mn>
+                                </m:mfrac>
+                                <m:msqrt>
+                                  <m:mn>2</m:mn>
+                                </m:msqrt>
+                                <m:mn>³</m:mn>
+                                <m:mover accent="true">
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>AC</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mo>¯</m:mo>
+                                </m:mover>
+                                <m:mover accent="true">
+                                  <m:mover accent="true">
+                                    <m:mstyle fontstyle="italic">
+                                      <m:mrow>
+                                        <m:mtext>BC</m:mtext>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                    <m:mo stretchy="false">→</m:mo>
+                                  </m:mover>
+                                  <m:mo stretchy="false">ˆ</m:mo>
+                                </m:mover>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mrow/>
+                        </m:mrow>
+                      </m:mtr>
+                      <m:mtr>
+                        <m:mrow>
+                          <m:mstyle fontsize="12pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:munder>
+                                  <m:mo stretchy="false">∑</m:mo>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mrow>
+                                        <m:mi>i</m:mi>
+                                        <m:mo stretchy="false">=</m:mo>
+                                        <m:mn>0</m:mn>
+                                      </m:mrow>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:munder>
+                                <m:mi>n</m:mi>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mrow/>
+                        </m:mrow>
+                      </m:mtr>
+                    </m:mtable>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{ {  {1}  over  {2} }  sqrt {2} ³ {overline  { ital "AC"}}  widehat  widevec  { ital "BC"} }  {} # 
+ size 12{ Sum cSub { size 8{i=0} }  {n} }  {} 
+} } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </quote>
+        </para>
+        <para id="id7999990">For a discussion of simulating class data, click here. For a Fathom file that can be used as a demonstration of the process followed during this activity, click <link resource="Grades_Calc2.ftm"> here</link>. </para>
+      </section>
+      <section id="id-487283087109">
+        <title>Key Questions</title>
+        <para id="id7552046">Before assigning the activity:</para>
+        <para id="id10315012">
+          <term>How would you do this experiment?</term>
+        </para>
+        <para id="id11117239">
+          <term>Why is it important to get genuine data when doing activities like this?</term>
+        </para>
+        <para id="id7557096">
+          <term>How do you compute the average of a set of numbers?</term>
+        </para>
+        <para id="id6472737">During the class discussion:</para>
+        <para id="id6472741">
+          <term>How did you make your prediction?</term>
+        </para>
+        <para id="id8967489">
+          <term>What were the highest and lowest number of rolls you got?</term>
+        </para>
+        <para id="id10611457">
+          <term>How might you graph one student’s outcomes?</term>
+        </para>
+        <para id="id6592048">
+          <term>Can you visualize the average in terms of the graph?</term>
+        </para>
+        <para id="id10822288">
+          <term>How might we graph the outcomes of the entire class?</term>
+        </para>
+        <para id="id7380654">
+          <term>Is 1 a likely outcome?</term>
+        </para>
+      </section>
+    </section>
+  </content>
+</document>

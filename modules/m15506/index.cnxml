@@ -1,0 +1,46 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Chance and Strategy</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>0f893734-3236-4c37-9349-952beeb93139</md:uuid>
+</metadata>
+  <content>
+    <section id="id-905413515884">
+      <title>Chance and Strategy</title>
+      <section id="id-0920117142707">
+        <title>Intent</title>
+        <para id="id6994876">The activities in <emphasis>Chance and Strategy</emphasis> are designed to accomplish two goals. First, students are introduced to the game of Pig and have opportunities to begin to develop strategies for playing the game. Second, students encounter several situations that challenge their intuitive notions of probability.</para>
+      </section>
+      <section id="id-484034815909">
+        <title>Mathematics</title>
+        <para id="id4943269">The six possible rolls of a fair die are equally likely to occur. In Pig, a dice game, rolling 2 through 6 will earn a player points. Players may keep rolling until they decide to stop or until they roll 1. Rolling 1 will end the turn, and the score for that turn will be 0. What is the best strategy for playing this game? In other words, at what point should a player stop rolling in order to earn the most points possible for that turn? In <emphasis>Chance and Strategy</emphasis>, students begin to test and articulate strategies for optimizing their turns. The idea of a complete strategy—one that can be applied in all possible game situations—is introduced.</para>
+        <para id="id3042924">Probabilistic reasoning frequently runs counter to intuition. Students often need a great deal of experience before they become willing to base their predictions on probabilistic notions rather than on such ideas as “being lucky” or that a particular result is “due” to occur.</para>
+        <para id="id4907177">These activities give students some concrete experiences, using dice and coins, with probabilistic questions. The two big ideas underlying these experiences are <term>independence</term> (each flip of a coin, for example, is unaffected by previous flips) and <term>random variability</term> (it is likely that the result of flipping 50 coins will not be exactly 25 heads).</para>
+        <para id="id11304292">Students are also introduced to the idea that the probability of an event can be quantified using real numbers between 0 (impossible) and 1 (certain) by counting the occurrences of that event and comparing that to the total number of events possible. The POW introduced in Chance and Strategy, in addition to being another rich problem to solve and to write about, gives students the opportunity to develop systematic counting methods.</para>
+        <para id="id4859858">There is growing research supporting the idea that technical vocabulary is best learned by students when they attach the terms to concepts they already understand—meaning that it might be advantageous to introduce terminology as students’ work on important ideas warrants. To illustrate, consider the following terms in the context of the activity <emphasis>Waiting for a Double</emphasis>:</para>
+        <list list-type="bulleted" id="id4503293">
+          <item>The <term>experiment</term> is rolling a pair of dice.</item>
+          <item>The possible <term>outcomes</term> of this experiment include rolling 2 and 5, or 1 and 4.</item>
+          <item>The <term>event</term> of interest is rolling a double (such as 3 and 3, or 6 and 6).</item>
+          <item>The <term>probability</term> of rolling a double is the ratio of the number of ways this event can occur to the total number of outcomes of this experiment.</item>
+        </list>
+      </section>
+      <section id="id-995547504436">
+        <title>Progression</title>
+        <para id="id3522590">In the opening class and homework activities, students play the game of Pig. They will return to the game later in the unit, once they have developed tools to analyze playing strategies. Subsequent activities in <emphasis>Chance and Strategy</emphasis> begin to develop these tools. The first POW of the unit is also assigned. </para>
+        <para id="id3829709">The Game of Pig</para>
+        <para id="id3050729">POW: A Sticky Gum Problem</para>
+        <para id="id3065501">Pig at Home</para>
+        <para id="id10102382">Pig Strategies</para>
+        <para id="id3748636">Waiting for a Double</para>
+        <para id="id3744690">The Gambler’s Fallacy</para>
+        <para id="id7416358">Expecting the Unexpected</para>
+        <para id="id3801734">Coincidence or Causation?</para>
+        <para id="id10117240">What Are the Chances?</para>
+        <para id="id11473887">Paula’s Pizza</para>
+        <para id="id3535393">0 to 1, or Never to Always</para>
+        <para id="id3045019">
+          <term/>
+        </para>
+      </section>
+    </section>
+  </content>
+</document>

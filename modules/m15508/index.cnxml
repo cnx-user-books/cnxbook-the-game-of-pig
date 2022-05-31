@@ -1,0 +1,77 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>The Game of Pig</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>77d42ee7-0a17-4a1f-86ea-f5c10af782d1</md:uuid>
+</metadata>
+  <content>
+    <section id="id-986760456529">
+      <title>The Game of Pig</title>
+      <section id="id-800464466863">
+        <title>Intent</title>
+        <para id="id12498248">This activity introduces students to the game of Pig and to the study of probability. Students develop, test, and compare strategies for playing the game as they begin to consider the central problem of the unit.</para>
+      </section>
+      <section id="id-793320955937">
+        <title>Mathematics</title>
+        <para id="id3357251">Students will collect data about rolling a die as part of playing the game of Pig. After some experience with the game, they will be able to articulate that a <term>strategy</term> is a complete plan of action intended to reach a particular goal.</para>
+      </section>
+      <section id="id-596935283207">
+        <title>Progression</title>
+        <para id="id11877250">Students are introduced to the game of Pig.</para>
+      </section>
+      <section id="id-691614885513">
+        <title>Approximate Time</title>
+        <para id="id12828602">35 minutes</para>
+      </section>
+      <section id="id-56018694078">
+        <title>Classroom Organization </title>
+        <para id="id12539032">Groups of 4, then pairs, followed by whole-class discussion </para>
+      </section>
+      <section id="id-4165991794">
+        <title>Materials</title>
+        <para id="id10233592">Dice</para>
+      </section>
+      <section id="id-639707482079">
+        <title>Doing the Activity</title>
+        <para id="id6133568">After students have read <emphasis>The Game of Pig</emphasis> and, in particular, “Your Assignment,” ask a few students to demonstrate how to play the game and how to keep score. Play a few turns as a class to clarify the rules. Be sure students understand the distinction between a <emphasis>single roll of the die</emphasis> and a <emphasis>turn</emphasis>. Each student should keep a record of the single rolls and the score for each turn. These records will allow students to review how the game progressed and to analyze the outcome of each turn. </para>
+        <para id="id3368169">After students play several turns in groups of four, have them play a game or two in pairs (as time permits) and experiment with playing strategies.</para>
+      </section>
+      <section id="id-897071779631">
+        <title>Discussing and Debriefing the Activity</title>
+        <para id="id11940949">Ask students to discuss some of the playing strategies they used. A basic strategy defines, for a given turn, when to roll again to try to earn more points and when to stop rolling to not risk losing the points already earned that turn. You might ask each group to post at least one of their strategies. When duplicate strategies appear, request alternate strategies.</para>
+        <para id="id11940953">After posing the Key Questions, emphasize that in mathematics a strategy is a complete plan of action intended to reach a particular goal. A strategy for playing Pig must tell whether or not to roll again in every circumstance in which there is a choice. </para>
+      </section>
+      <section id="id-169561755985">
+        <title>Key Questions</title>
+        <para id="id12267868">
+          <term>What do you think a strategy is?</term>
+        </para>
+        <para id="id4211049">
+          <term>How do you use strategies in your daily life?</term>
+        </para>
+        <para id="id3358107">
+          <term>What were some high scores for individual turns?</term>
+        </para>
+        <para id="id12292555">
+          <term>How did you decide whether to roll again or to stop?</term>
+        </para>
+        <para id="id12516841">
+          <term>What do we mean by the “best” strategy?</term>
+        </para>
+        <para id="id11834957">
+          <term>How did your strategy change as you played Pig and understood the game better?</term>
+        </para>
+        <para id="id11663081">
+          <term>Does this group’s strategy seem complete and clear?</term>
+        </para>
+        <para id="id11011872">
+          <term>How can we compare different strategies?</term>
+        </para>
+        <para id="id11261246">
+          <term>How might you measure whether one strategy is any better than another?</term>
+        </para>
+        <para id="id11455778">
+          <term>Can another group test your strategy?</term>
+        </para>
+      </section>
+    </section>
+  </content>
+</document>
